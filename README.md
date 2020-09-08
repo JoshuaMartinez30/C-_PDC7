@@ -41,7 +41,7 @@ Punto de control #7 de **C++** diseñado para demostrar:
 
 ## :black_circle: Maestro.hpp
 
-![](imagenes/Mestro_hpp.png)
+![](imagenes/Maestro_hpp.png)
 
 ---
 
@@ -71,7 +71,7 @@ Punto de control #7 de **C++** diseñado para demostrar:
 
 ## :white_circle: Salida 
 
-![](imagenes/salida_herencia.png)
+![](imagenes/Salida_herencia.png)
 
 ---
 
@@ -89,7 +89,7 @@ Punto de control #7 de **C++** diseñado para demostrar:
 
 ## :black_circle: Maestro1.hpp
 
-![](imagenes/Mestro1_hpp.png)
+![](imagenes/Maestro1_hpp.png)
 
 ---
 
@@ -119,7 +119,7 @@ Punto de control #7 de **C++** diseñado para demostrar:
 
 ## :white_circle: Salida 
 
-![](imagenes/salida_polimorfismo.png)
+![](imagenes/Salida_polimorfismo.png)
 
 
 
