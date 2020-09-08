@@ -121,7 +121,47 @@ Punto de control #7 de **C++** diseñado para demostrar:
 
 ![](imagenes/Salida_polimorfismo.png)
 
+---
 
+## :black_circle: Pila.hpp
+
+![](imagenes/Pila_hpp.png)
+
+---
+
+## :black_circle: Enteros.hpp
+
+![](imagenes/Enteros_hpp.png)
+
+---
+
+## :black_circle: Doubles.hpp
+
+![](imagenes/Doubles_hpp.png)
+
+---
+
+## :black_circle: Cadenas.hpp
+
+![](imagenes/Cadenas_hpp.png)
+
+---
+
+## :black_circle: MiClase.hpp
+
+![](imagenes/MiClase_hpp.png)
+
+---
+
+## :black_circle: MiClases.hpp
+
+![](imagenes/MiClases_hpp.png)
+
+---
+
+## :black_circle: Templates.cpp
+
+![](imagenes/Templates_cpp.png)
 
 
 ## :computer: Código
